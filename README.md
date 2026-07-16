@@ -6,12 +6,12 @@ O site possui efeitos visuais modernos (como glassmorphism, sombras neon e rastr
 
 ## 🚀 Como Executar o Site Localmente
 
-O projeto inclui um servidor web ultraleve e sem dependências externas escrito em Node.js (`server.js`).
+O projeto inclui um servidor web ultraleve e sem dependências externas escrito em Node.js (`local_server.js`).
 
 1. Certifique-se de ter o **Node.js** instalado em seu computador.
 2. Abra o terminal na pasta do projeto e execute:
    ```bash
-   node server.js
+   node local_server.js
    ```
 3. Abra o seu navegador e acesse:
    [http://localhost:3000](http://localhost:3000)
@@ -26,6 +26,6 @@ O projeto inclui um servidor web ultraleve e sem dependências externas escrito 
 - `index.html` - Estrutura e marcação semântica HTML5.
 - `style.css` - Estilos modernos e responsividade.
 - `script.js` - Micro-interações e efeitos visuais interativos.
-- `server.js` - Servidor HTTP nativo.
+- `local_server.js` - Servidor HTTP nativo.
 - `absetup.exe` - Instalador offline do Avant Browser (4.33 MB).
 - `.gitignore` - Arquivo de configuração de exclusão do Git.

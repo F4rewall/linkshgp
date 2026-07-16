@@ -1,3 +1,2 @@
 # Ignore the local Node.js server from Vercel deployment
-# This forces Vercel to serve the site as a high-performance static website.
-server.js
+local_server.js
